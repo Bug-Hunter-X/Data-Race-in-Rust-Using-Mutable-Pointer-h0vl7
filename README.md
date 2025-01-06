@@ -1,0 +1,2 @@
+# Data Race in Rust
+This repository demonstrates a simple example of a data race in Rust, highlighting the importance of safe memory management and thread synchronization. The `bug.rs` file contains the buggy code, and `bugSolution.rs` presents a safe solution using proper synchronization primitives.
